@@ -33,3 +33,6 @@ function manejarClick() {
 // Agrega un listener al evento 'click' en la ventana (pantalla)
 // document.addEventListener("click", manejarClick);
 manejarClick();
+
+
+setTimeout(manejarClick, 10000);
