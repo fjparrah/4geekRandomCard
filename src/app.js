@@ -34,5 +34,5 @@ function manejarClick() {
 // document.addEventListener("click", manejarClick);
 manejarClick();
 
-
 setTimeout(manejarClick, 10000);
+
